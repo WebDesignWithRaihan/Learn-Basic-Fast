@@ -9,11 +9,11 @@
 
 
 ## PHP .MD
-
-// Server Setup
-// Basic Syntax
-// Variable, Function, Method, Class লেখার নিয়ম
-// Constant 
-// statement VS expression 
-// Data Type
-// Operators  Arithmetic,  Assignment
+- [ ] **Class -1**
+    - [ ] Server Setup
+    - [ ] Basic Syntax
+    - [ ] Variable, Function, Method, Class লেখার নিয়ম
+    - [ ] Constant 
+    - [ ] statement VS expression 
+    - [ ] Data Type
+    - [ ] Operators  Arithmetic,  Assignment
