@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP</title>
+    <title>Class -1 </title>
     <style>
         body{
             font-size: 20px;
@@ -86,14 +86,25 @@ echo "<br>";
 // Object
 // $user1 = new User ();
 // $user2 = new User ();
-
 // $variable = Null; // ডিফল্ট ভ্যালু ক্ষেত্রে
-
 // $file = fopen("test.txt","r");
 
 echo "is_int($price)";
 echo "<br>";
-// Arithmetic Operators;
+echo "<h2> Operators </h2>";
+?>
+
+<pre>
+<u><i>1. Arithmetic Operators;</i></u>
+    +	Addition
+    -	Subtraction
+    *	Multiplication
+    /	Division
+    %	Modulus
+    **	Exponentiation
+</pre>
+
+<?php 
 
 $a = 8;
 $b = 3;
@@ -105,27 +116,27 @@ $Division = $a / $b ;
 $Modulus = $a % $b ;
 $Exponentiation = $a ** $b ;
 
-echo "Addition = $Addition <br>";
-echo "Subtraction = $Subtraction  <br>";
-echo "Multiplication = $Multiplication <br>";
-echo "Division = $Division <br>";
-echo "Modulus = $Modulus <br>";
-echo "Exponentiation = $Exponentiation <br>";
+echo "Addition + = $Addition <br>";
+echo "Subtraction - = $Subtraction  <br>";
+echo "Multiplication * = $Multiplication <br>";
+echo "Division / = $Division <br>";
+echo "Modulus % = $Modulus <br>";
+echo "Exponentiation ** = $Exponentiation <br>";
 
+?>
+<pre>
+<u><i> 2. Assignment Operators</i></u>
+1 = Assignment
+2 += Addition Assignment
+3 -= Subtraction Assignment
+4 *= Multiplication Assignment
+5 /= Division Assignment
+6 %= Modulus Assignment
+</pre>
+<?php 
 
-echo "<h2> Operators </h2> <br>";
-
-// Assignment Operators
-
-// 1 = Assignment
-// 2 += Addition Assignment
-// 3 -= Subtraction Assignment
-// 4 *= Multiplication Assignment
-// 5 /= Division Assignment
-// 6 %= Modulus Assignment
-
+echo "<u> 2. Assignment Operators </u> <br>";
 $aa = 5;
-
 
 echo "Assignment : aa = $aa <br>";
 
@@ -141,25 +152,6 @@ $aa %= 2;
 echo "Modulus Assignment : ee%2 = $aa <br>";
 $aa**= 2;
 echo "Subtraction Assignment : ff**2 = $aa <br>";
-
-
-
-
-$Assignment = 5;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

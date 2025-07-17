@@ -12,13 +12,13 @@
 - [ ] **Class -1**
     - [ ] Server Setup
     - [ ] Basic Syntax
-    - [ ] Variable, Function, Method, Class লেখার নিয়ম
+    - [ ] Variable, Function, Method, Class
     - [ ] Constant 
     - [ ] statement VS expression 
     - [ ] Data Type
-    - [ ] Operators  Arithmetic,  Assignment
+    - [ ] Operators 1. Arithmetic, 2. Assignment
 - [ ] **Class -2**
-    - [ ] 
+    - [ ] Operators - 3 Comparison
     - [ ] 
     - [ ] 
     - [ ] 
