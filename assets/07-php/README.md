@@ -16,11 +16,10 @@
     - [ ] Constant 
     - [ ] statement VS expression 
     - [ ] Data Type
-    - [ ] Operators 1. Arithmetic, 2. Assignment
+    - [ ] Operators 1. Arithmetic
+    - [ ] Operators 2. Assignment
 - [ ] **Class -2**
-    - [ ] Operators - 3 Comparison
-    - [ ] 
-    - [ ] 
-    - [ ] 
-    - [ ] 
-    - [ ] 
+    - [ ] Operators - 3. Comparison
+    - [ ] Operators - 4. Increment/Decrement 
+    - [ ] Operators - 5. Logical operators 
+   

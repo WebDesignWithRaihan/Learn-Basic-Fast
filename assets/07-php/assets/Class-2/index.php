@@ -137,7 +137,7 @@ echo "$l <br>";
 ?>
 
 <pre>
-<u>5. Comparison operators </u>
+<u>3. Comparison operators </u>
     ==	Equal
     ===	Identical
     !=	Not equal
