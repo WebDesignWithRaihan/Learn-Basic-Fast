@@ -22,4 +22,10 @@
     - [ ] Operators - 3. Comparison
     - [ ] Operators - 4. Increment/Decrement 
     - [ ] Operators - 5. Logical operators 
-   
+- [ ] **Class -2**
+    - [ ] String operators 1 . Concatenation 2 .= Concatenation assignment
+    - [ ] Comparison operator :-  <=> Spaceship 
+    - [ ] Conditional assignment operators 1 ?: Ternary  2 ?? Null coalescing
+    - [ ] Conditional Statements : 1. if {} else {}
+    - [ ]  Conditional Statements : 2. Statements:  if () elseif{} {}else {}
+    - [ ]  Conditional Statements:  3. switch(){} case(): break; default:
