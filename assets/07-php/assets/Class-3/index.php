@@ -35,7 +35,7 @@ echo "<br>";
 </pre>
 
 <?php
-
+echo "  <br>";
 $text = "";
 $items = ["Apple", "Banana", "Cherry"];
 
